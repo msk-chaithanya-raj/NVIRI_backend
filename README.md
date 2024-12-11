@@ -19,3 +19,10 @@ This is the backend for the appliance repair service, built with Node.js, Expres
 ```bash
 git clone https://github.com/msk-chaithanya-raj/NVIRI_backend
 cd backend
+
+### 2. Install dependencies
+```bash
+npm install
+### 3. Run the server
+```bash
+npm start
