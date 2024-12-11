@@ -5,6 +5,7 @@ This is the backend for the appliance repair service, built with Node.js, Expres
 ## Features
 
 - **API Endpoints**:
+
   - `/api/locations`: Get a list of locations.
   - `/api/appliances`: Search for appliances by name.
   - `/api/technicians`: Search for technicians by specialization.
@@ -16,15 +17,20 @@ This is the backend for the appliance repair service, built with Node.js, Expres
 ## Setup
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/msk-chaithanya-raj/NVIRI_backend
 cd backend
 ```
+
 ### 2. Install dependencies
+
 ```bash
 npm install
 ```
+
 ### 3. Run the server
+
 ```bash
 npm start
 ```
